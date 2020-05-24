@@ -1,0 +1,8 @@
+"Helter Skelter", 2," 9780553228991"," Vincent Bugliosi", 502, "21/05/2020"," Josh","Crime"
+"Mindhunter", 3, "9780684864471", "John E. Douglas", 384, "22/05/2020", "Levy", "Crime"
+"The Executioner's Song" ,4, "9788433914392", " Norman Mailer", 371, "20/05/2020", "Brix", "Crime"
+"Romeo and Juliet", 1, "9781505235999", "William Shakespeare", 480, "19/05/2020", "Jeff", "Drama"
+"The Crucible", 6, "9784871871082", "Arthur Miller",334, "22/05/2020", "Steve", "Drama"
+"If You Tell", 7, "9819961149912", "Gregg Olsen", 298, "22/05/2020", "George", "Crime"
+"The Glass Menagerie", 9, " 9780811214049", "Tennessee Williams", 104, "18/05/2020", "Rob", "Drama"
+"Hard Cash Valley",10, "9819961166294", "Brian Panowich", 303, "17/05/2020", "Bryan", "Crime"
